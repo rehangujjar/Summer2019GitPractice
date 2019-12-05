@@ -10,3 +10,4 @@ white
 Orange
 cyan
 Azure
+French rose
